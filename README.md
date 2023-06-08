@@ -1,1 +1,11 @@
-# Program-part-2
+// This program displays "Hello world!"
+
+Start
+
+// Process
+
+Write "Hello world!"
+
+// Output
+
+End
